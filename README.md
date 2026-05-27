@@ -65,6 +65,9 @@ print("--------------------------------------------------------------")
 ## Output
 <img width="821" height="449" alt="Screenshot 2026-03-13 152107" src="https://github.com/user-attachments/assets/4e8dd1d2-1b40-4fc2-9681-b2f7f63cc57b" />
 
+## Github Link
+https://github.com/RAMA20673481/Open-Jacson-Network
+
 ## Result
 
 The average number of material in the system and in the conveyor and waiting time are successfully found.
